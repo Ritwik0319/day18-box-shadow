@@ -1,0 +1,201 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 50px;
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin: 20px 0px 0px 350px;
+  box-shadow: 0px 0px 10px 5px pink inset;
+}
+
+.ele1,
+.ele2 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 60px;
+}
+
+.ele2 {
+  margin-bottom: 40px;
+}
+
+#item1,
+#item2,
+#item3,
+#item4,
+#item5,
+#item6,
+#item7,
+#item8,
+#item9,
+#item10,
+#item11,
+#item12,
+#item13,
+#item14,
+#item15,
+#item16,
+#item17,
+#item18,
+#item19,
+#item20 {
+  height: 230px;
+  width: 180px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 20px 0.1px gray;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#item1 {
+  background-color: #cdb4db;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item2 {
+  background-color: #a2d2ff;
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item3 {
+  background-color: #ffafcc;
+  font-family: "Sofadi One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item4 {
+  background-color: #bde0fe;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item5 {
+  background-color: #ffc8dd;
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item6 {
+  background-color: #4cc9f0;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+#item7 {
+  background-color: #a2d2ff;
+  font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+}
+
+#item8 {
+  background-color: #bde0fe;
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+#item9 {
+  background-color: #ffafcc;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item10 {
+  background-color: #bde0fe;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+#item11 {
+  background-color: #4cc9f0;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item12 {
+  background-color: #bde0fe;
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item13 {
+  background-color: #bde0fe;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item14 {
+  background-color: #a2d2ff;
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item15 {
+  background-color: #4cc9f0;
+  font-family: "Kolker Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item16 {
+  background-color: #ffafcc;
+  font-family: "Sacramento", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item17 {
+  background-color: #bde0fe;
+  font-family: "Kristi", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item18 {
+  background-color: #4cc9f0;
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item19 {
+  background-color: #a2d2ff;
+  font-family: "Flavors", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#item20 {
+  background-color: #ffafcc;
+  font-family: "Tektur", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
